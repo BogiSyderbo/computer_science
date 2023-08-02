@@ -4,22 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "ecfa8f295176ba17",
+        "id": "9154a15c8c453cdc",
         "type": "tabs",
         "children": [
           {
-            "id": "fc410d74981cc84a",
+            "id": "10d958b6072accdb",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "6717dd8c0f13c2ff",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CompSys/C Language Introduction.md",
+                "file": "Manuals/Zathura.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CompSys/C Language Introduction.md",
+                "file": "Manuals/Zathura.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CompSys/C Language Introduction.md",
+                "file": "Manuals/Zathura.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CompSys/C Language Introduction.md"
+                "file": "Manuals/Zathura.md"
               }
             }
           },
@@ -160,11 +169,20 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "fc410d74981cc84a",
+  "active": "6717dd8c0f13c2ff",
   "lastOpenFiles": [
-    "computer_science",
+    "Manuals/Nvim.md",
+    "Manuals/GitHub.md",
+    "Manuals/Zathura.md",
+    "CompSys/C Language Intro.md",
+    "Untitled.md",
+    "Manuals/Alacritty.md",
+    "Manuals/Bash.md",
+    "Manuals/Tmux.md",
+    "MatIntroNat",
+    "Manuals",
     "Excalidraw/Drawing 2023-07-02 12.22.12.excalidraw.md",
-    "CompSys/C Language Introduction.md",
+    "computer_science",
     "Excalidraw",
     "CompSys"
   ]
