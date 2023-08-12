@@ -2,7 +2,7 @@
   "accentColor": "",
   "cssTheme": "Dracula Official",
   "interfaceFontFamily": "IBM Plex Sans",
-  "textFontFamily": "Times New Roman",
+  "textFontFamily": "IBM Plex Serif,Times New Roman",
   "monospaceFontFamily": "IBM Plex Mono",
   "showViewHeader": false
 }

@@ -1,4 +1,4 @@
-## Creating a repository
+# Creating a repository
 
 ```
 $ git init
@@ -18,4 +18,4 @@ $ git remote set-url origin git@github.com:BogiSyderbo/your-repo-name.git
 
 ```
 $ git push -u origin master
-```
+``` 
