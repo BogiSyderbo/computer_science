@@ -17,5 +17,5 @@ $ git remote set-url origin git@github.com:BogiSyderbo/your-repo-name.git
 ```
 
 ```
-$ git push -u origin master
+$ git push -u origin main
 ``` 

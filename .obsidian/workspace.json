@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "2d526b2ede4c20ce",
+        "id": "ebeba289a4528f24",
         "type": "tabs",
         "children": [
           {
-            "id": "d30146a50ba0fbbd",
+            "id": "8dc57d5fa2081162",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Manuals/GitHub.md",
+                "file": "Mathematics/Introduction/8. Vectors.md",
                 "mode": "source",
                 "source": false
               }
@@ -58,7 +58,7 @@
             }
           },
           {
-            "id": "dac55a5605c5c339",
+            "id": "f398748528eb32be",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "85c9830a1dab9da1",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Manuals/GitHub.md",
+                "file": "Mathematics/Introduction/8. Vectors.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Manuals/GitHub.md",
+                "file": "Mathematics/Introduction/8. Vectors.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Manuals/GitHub.md"
+                "file": "Mathematics/Introduction/8. Vectors.md"
               }
             }
           },
@@ -168,23 +169,53 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d30146a50ba0fbbd",
+  "active": "8dc57d5fa2081162",
   "lastOpenFiles": [
-    "Manuals/Alacritty.md",
-    "Manuals/Bash.md",
-    "Manuals/Tmux.md",
-    "Manuals/Nvim.md",
-    "Manuals/GitHub.md",
-    "Manuals/Zathura.md",
+    "Mathematics/Introduction/8. Vectors.md",
+    "Mathematics/Introduction/4. Functions.md",
+    "Mathematics/Discrete Math/Relations.md",
+    "Mathematics/Discrete Math/Logic.md",
+    "Mathematics/Discrete Math/Induction.md",
+    "Mathematics/Discrete Math/Graph Theory.md",
+    "Mathematics/Discrete Math/Combinatorics.md",
+    "Mathematics/Introduction/7. Integral calculus.md",
+    "Mathematics/Introduction/6. Differential calculus.md",
+    "Mathematics/Introduction/5. Trigonometric functions.md",
+    "Mathematics/Introduction/3. Fractions and powers.md",
+    "Mathematics/Introduction/2. Equations.md",
+    "Mathematics/Introduction/1. Sets and intervals.md",
+    "Pasted image 20230825150845.png",
+    "Pasted image 20230825150746.png",
+    "Pasted image 20230825150733.png",
+    "Pasted image 20230825150634.png",
+    "Pasted image 20230825150621.png",
+    "Pasted image 20230825150521.png",
+    "Pasted image 20230825150446.png",
+    "Pasted image 20230825150327.png",
+    "Pasted image 20230825150317.png",
+    "Pasted image 20230825150213.png",
+    "Mathematics/Number theory.md",
+    "Mathematics/Symbols.md",
     "CompSys/Course Introduction.md",
     "CompSys/C Language Intro.md",
+    "Mathematics/Discrete Math/Set Theory.md",
+    "Untitled.canvas",
+    "Manuals/Nvim.md",
+    "Manuals/Zathura.md",
+    "Manuals/GitHub.md",
+    "Manuals/Bash.md",
+    "Manuals/Alacritty.md",
+    "Manuals/Tmux.md",
     "Skema.md",
-    "Untitled 1.md",
-    "MatIntroNat",
-    "Manuals",
-    "Excalidraw/Drawing 2023-07-02 12.22.12.excalidraw.md",
-    "computer_science",
+    "Mathematics/Linear Algebra",
+    "z",
+    "MatIntroNat/Untitled",
+    "Mathematics/Discrete Math",
     "Excalidraw",
-    "CompSys"
+    "Mathematics/Introduction",
+    "Mathematics",
+    "CompSys/Lectures",
+    "MatIntroNat",
+    "Manuals"
   ]
 }

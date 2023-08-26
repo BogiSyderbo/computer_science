@@ -1,31 +1,32 @@
 ## Keyboard shortcuts
 ### Cursor motion
-- **H**: Upper left corner (home)
-- **L**: Lower left corner
-- **M**: Middle line
-- **^**: Beginning of line
-- **$**: End of line
-- **1**: Forward one character
-- **w**: One word forward
-- **b**: Back one word
-- **fc**: Find *c*
-- **;**: Repeat find (find next *c*)
+- ``H``: Upper left corner (home)
+- ``L``: Lower left corner
+- ``M``: Middle line
+- ``^``: Beginning of line
+- ``$``: End of line
+- ``1``: Forward one character
+- ``w``: One word forward
+- ``b``: Back one word
+- ``fc``: Find *c*
+- ``;``: Repeat find (find next *c*)
 
 ### Input
-- **a**: Append after cursor
-- **i**: Insert before cursor
-- **o**: Open line below
-- **O**: Open line above
+- ``a``: Append after cursor
+- ``i``: Insert before cursor
+- ``o``: Open line below
+- ``O``: Open line above
 
 ## Commands
 ### File management
-- **:w f**: Save file as *f*
-- **:wq**: Exit and save
-- **:x**: Exit and save (if changes have been made)
-- **:w**: Save
-- **:q!** Exit without saving
+- ``:w f``: Save file as *f*
+- ``:wq``: Exit and save
+- ``:x``: Exit and save (if changes have been made)
+- ``:w``: Save
+- ``:q!`` Exit without saving
+- `:xall` Exit all windows and save
 ### System
-- **:* y***: Copy to the clipboard
+- ``:*y``: Copy to the clipboard
 
 ## Tools
 
