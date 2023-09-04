@@ -1,5 +1,5 @@
 # Introduction
-## Functions
+## Function examples
 
 ### Hello world!
 ```

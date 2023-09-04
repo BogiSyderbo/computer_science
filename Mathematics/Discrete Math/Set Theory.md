@@ -51,8 +51,8 @@ $$A \nsubseteq B$$
 If $A$ is any set, then $A \subseteq A$.  That is, every set is a subset of itself. 
 
 Let $A$ be a set and let $B=\{A,\{A\}\}$. Then, since $A$ and $\{A\}$ are elements of $B$, we have $A \in B$ and $\{A\} \in B$. It follows that $\{A\} \subseteq B$ and $\{\{A\}\} \subseteq B$. However, it is not true that $A \subseteq B$.
-
 # Operations on sets
+
 
 # Properties of sets
 **Commutative Properties**
