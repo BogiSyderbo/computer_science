@@ -35,9 +35,9 @@ $$\mathbb{Z}⁺=\{1, 2, 3,...\}$$
 This set contains all negative integers.
 $$\mathbb{Z}⁻=\{-1, -2, -3,...\}$$
 **The set of rational numbers**:
-$$\mathbb{Q}=\{x \mid x\text{ is a rational number } \}$$
+$$\mathbb{Q}=\{\frac{a}{b} \mid a,b\in\mathbb{z}, b\neq0 \}$$
 
-Thus $\mathbb{Q}$ consists of numbers that can be written as $\frac{a}{b}$, where $a$ and $b$ are integers and $b$ is not 0 .
+Thus $\mathbb{Q}$ consists of numbers that can be written as $\frac{a}{b}$, where $a$ and $b$ are integers and $b$ is not 0.
 
 **The set of  real numbers**:
 $$
@@ -52,7 +52,17 @@ If $A$ is any set, then $A \subseteq A$.  That is, every set is a subset of itse
 
 Let $A$ be a set and let $B=\{A,\{A\}\}$. Then, since $A$ and $\{A\}$ are elements of $B$, we have $A \in B$ and $\{A\} \in B$. It follows that $\{A\} \subseteq B$ and $\{\{A\}\} \subseteq B$. However, it is not true that $A \subseteq B$.
 # Operations on sets
+## Intersection
+![[Pasted image 20230905081346.png]]
 
+If $A$ and $B$ are sets, we define their intersection as the set consisting of all elements that belong to both $A$ and $B$ and denote it by $A \cap B$. Thus
+$$
+A \cap B=\{x \mid x \in A \land x \in B\}
+$$
+## Union
+
+
+![[Pasted image 20230905081230.png]]
 
 # Properties of sets
 **Commutative Properties**

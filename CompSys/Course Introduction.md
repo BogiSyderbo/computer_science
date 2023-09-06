@@ -6,5 +6,12 @@ CompSys is giving a general introduction to computer systems. You will learn how
 - [JG] Modern C, Jens Gustedt, Oct. 10, 2019, [http://modernc.gforge.inria.fr/](http://modernc.gforge.inria.fr/).
 # Tools
 - [RISC-V Interpreter](https://www.cs.cornell.edu/courses/cs3410/2019sp/riscv/interpreter/#)
+- [Compiler Explorer](https://godbolt.org/)
 
-
+# Assignments
+- 6 assignments
+- 4pts per assignment
+- 50% (12pts) required for exam
+- Assignments on Sundays
+- In English or Danish
+- Written final exam in English, this determines the final grade

@@ -7,6 +7,6 @@
 | 2    | MatIntro | SS      | AD          | RAD       |
 | Blok | 1        | 2       | 3           | 4         |
 | 1    | MLA      | MLB     | Bachelor    | Bachelor  |
-| 2    | ITS / MatAn  | HPPS    | ModComp?      | VtDat     |
+| 2    | MatAn  | HPPS    | ModComp?      | VtDat     |
 
 

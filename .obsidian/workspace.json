@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "367be65af8de566d",
+        "id": "8ff80a65722cc168",
         "type": "tabs",
         "children": [
           {
-            "id": "627059e3e3623396",
+            "id": "66d478f97d35323c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CompSys/Lectures/2023.09.04.md",
+                "file": "CompSys/Lectures/2023.09.06.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "words",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CompSys/Lectures/2023.09.04.md",
+                "file": "CompSys/Lectures/2023.09.06.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CompSys/Lectures/2023.09.04.md",
+                "file": "CompSys/Lectures/2023.09.06.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CompSys/Lectures/2023.09.04.md"
+                "file": "CompSys/Lectures/2023.09.06.md"
               }
             }
           },
@@ -169,47 +169,46 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "627059e3e3623396",
+  "active": "66d478f97d35323c",
   "lastOpenFiles": [
+    "z/Pasted image 20230906125119.png",
     "Skema.md",
-    "CompSys/Lectures/2023.09.04.md",
-    "Mathematics/Introduction/3. Fractions and powers.md",
-    "MatIntroMat/Polynomials.md",
+    "CompSys/Lectures/2023.09.06.md",
+    "CompSys/RISC-V.md",
     "CompSys/Course Introduction.md",
-    "MatIntroMat/Lectures",
-    "Mathematics/Introduction/4. Functions.md",
-    "z/Pasted image 20230902175821.png",
-    "Mathematics/Symbols.md",
-    "Mathematics/Number theory.md",
-    "Mathematics/Introduction/7. Integral calculus.md",
-    "Mathematics/Introduction/8. Vectors.md",
-    "MatIntroMat/Course introduction.md",
-    "Mathematics/Introduction/6. Differential calculus.md",
-    "Mathematics/Introduction/5. Trigonometric functions.md",
-    "Mathematics/Introduction/2. Equations.md",
-    "Mathematics/Introduction/1. Sets and intervals.md",
-    "Mathematics/Discrete Math/Set Theory.md",
-    "z/Pasted image 20230902175804.png",
-    "CompSys/C Language Intro.md",
+    "CompSys/C Language.md",
+    "z/Pasted image 20230906124959.png",
+    "z/Pasted image 20230906124952.png",
+    "z/Pasted image 20230906124931.png",
+    "z/Pasted image 20230906124751.png",
+    "z/Pasted image 20230906124732.png",
+    "z/Pasted image 20230906124715.png",
+    "z/Pasted image 20230906124701.png",
+    "z/Pasted image 20230906124634.png",
+    "CompSys/Lectures/2023.09.04.md",
+    "z/Pasted image 20230906114334.png",
     "Courses plan.md",
-    "CompSys/Assignments/0preparation.md",
-    "CompSys/Assignments",
-    "CompSys/Untitled.md",
-    "CompSys/Lecture Plan",
-    "CompSys/lectureplan.md",
-    "z/Pasted image 20230828110420.png",
+    "MatIntroMat/Lectures/2023.09.05.md",
+    "Mathematics/Complex numbers.md",
+    "MatIntroMat/Polynomials.md",
+    "Mathematics/Discrete Math/Set Theory.md",
+    "MatIntroMat/Functions.md",
+    "Mathematics/Introduction/4. Functions.md",
+    "Mathematics/Untitled.md",
+    "Mathematics/Introduction/3. Fractions and powers.md",
+    "Mathematics/Introduction/1. Sets and intervals.md",
+    "MatIntroMat/Course introduction.md",
+    "Manuals/Nvim.md",
     "Mathematics/Linear Algebra/Matrices.md",
+    "Mathematics/Discrete Math/Relations.md",
     "Mathematics/Discrete Math/Logic.md",
+    "Mathematics/Discrete Math/Induction.md",
     "Mathematics/Discrete Math/Graph Theory.md",
     "Mathematics/Discrete Math/Combinatorics.md",
-    "Mathematics/Discrete Math/Relations.md",
-    "z/Pasted image 20230828110004.png",
-    "z/Pasted image 20230828104820.png",
-    "z/Pasted image 20230828104103.png",
-    "z/Pasted image 20230828104050.png",
-    "z/Pasted image 20230827164000.png",
-    "z/Pasted image 20230827155216.png",
-    "z/Pasted image 20230827155031.png",
+    "MatIntroMat/Lectures",
+    "Mathematics/Symbols.md",
+    "CompSys/Assignments",
+    "CompSys/Lecture Plan",
     "Untitled.canvas",
     "Mathematics/Linear Algebra",
     "z",
