@@ -15,5 +15,5 @@ Suppose $P(x)$ and $Q(x)$ are polynomials and that the degree of $Q(x)$ is at le
 
 In general we can find two polynomials $K(x)\operatorname{and} R(x)$, where $R(x)$ has a lower degree than $Q(x)$, so that $$ \frac{P(x)}{Q(x)}=K(x)+\frac{R(x)}{Q(x)} $$ Multiplying by $Q(x)$, we get $$ P(x)=K(x) Q(x)+R(x) $$
 ## Long polynomial division algorithm
-## Example
+### Example
 1.5.1 in [TLO]
