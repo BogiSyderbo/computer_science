@@ -31,6 +31,16 @@ Let $z=a+i b$ and $w=c+i d$ be two complex numbers, then these rules apply:
 - Zero and unit-elements: $z_1+0=z_1$ and $z_1 \cdot 1=z_1$
 - Opposite values: $\forall z\exists-z: z+(-z)=0$
 - Inverse numbers: $\forall z \neq 0\exists\mathrm{w}:z w=1$
+## Complex numbers and real numbers
+$$
+i^{-1}=-i
+$$
+$$
+\frac{1}{i}=-i
+$$
+$$
+\frac{i}{1}=i
+$$
 
 # Conjugate
 ![[Pasted image 20230906213251.png]]
@@ -77,8 +87,16 @@ $$
 $$
 
 ### Multiplication
+The *arguments* of a complex number are defined as 
+$$
+\begin{gathered}
+z=a+ib
+\\
+arg(z)=\tan^{-1}(\frac{a}{b})
+\end{gathered}
+$$
 ![[Pasted image 20230906214636.png]]
-We can multiply to complex number by multiplying the *modulus* of both and adding the arguments.
+We can multiply to complex number by multiplying the *modulus* of both and adding the *arguments.*
 
 $$
 \begin{gathered}
@@ -113,4 +131,53 @@ $$
 **Proof**:
 $$
 (\cos \theta+i \sin \theta)^n=\left(e^{i \theta}\right)^n=e^{i n \theta}=\cos (n \theta)+i \sin (n \theta)
+$$
+# Complex polynomials
+Let $z\in\mathbb{C}$ , and let $n\in \mathbb{N}$ . 
+$w\in\mathbb{C}$ is an $n$-th root to $z$ such that
+$$
+w^n=z .
+$$
+If $n=2$ then $w$ is a *quadratic root*, and if $n=3$, $w$ is a *cubic root*.
+
+
+
+Let $z=r e^{i \theta}\in\mathbb{C}, z\neq 0$ , and $n\in \mathbb{N}$ . $z$ has exactly $n~n$-th roots $w_0, w_1, w_2, \ldots, w_{n-1}$ given with
+$$
+w_k=r^{1 / n} e^{i(\theta+2 k \pi) / n}=r^{1 / n}\left(\cos \frac{\theta+2 k \pi}{n}+i \sin \frac{\theta+2 k \pi}{n}\right) .
+$$
+
+How to find the quadratic roots of a complex number
+$$
+z^2=w
+$$
+$$
+z^2=(-1)^k\sqrt{|w|}e^{i\frac{\phi}{2}}
+$$
+
+For complex numbers:
+$$
+a,b,c\in\mathbb{C}
+$$
+That make up the polynomial:
+$$
+P(z)=az^2+bz+c
+$$
+The roots $\rho$ are given with:
+$$
+\rho_{\pm}=\frac{-b\pm\sqrt{b^2-4ac}}{2a}
+$$
+and
+$$
+P(z)=a(z-\rho_+)(z-\rho_-)
+$$
+
+## **d'Alembert–Gauss theorem**
+Let
+$$
+P(z)=c_n z^n+c_{n-1} z^{n-1}+c_{n-2} z^{n-2}+\ldots c_1 z+c_0
+$$
+be a complex $n$-th root polynomial. Then there exists $\rho_1,\rho_2,\cdots,\rho_n$
+$$
+P(z)=c_n\left(z-\rho_1\right)\left(z-\rho_2\right) \ldots\left(z-\rho_n\right)
 $$
