@@ -16,12 +16,15 @@
 - [NVIM text editor](https://github.com/neovim/neovim)
 	- Vimtex
 	- Vim-snip
+	- tikz
 	- NerdTree
 	- LuaLine
 	- AI code completion
-- Alacritty
+- Kitty terminal
 - Zathura
 - Tmux
 - Zsh
 - Firefox
 	- CSS customization
+
+https://i.imgur.com/1dzdYIT.jpeg
