@@ -4,26 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "8ff80a65722cc168",
+        "id": "76a2b4a4de41596b",
         "type": "tabs",
         "children": [
           {
-            "id": "1bb55e818f60f678",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "z/Pasted image 20230913220855.png"
-              }
-            }
-          },
-          {
-            "id": "4869b6a7700c2c54",
+            "id": "883edc3c71b6a6db",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MatIntroMat/Lectures/2023.09.12.md",
+                "file": "MatIntroMat/Lectures/2023.09.21.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4e9754abd580005c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Skema.md",
                 "mode": "source",
                 "source": false
               }
@@ -58,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "dividing",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -87,7 +89,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "85c9830a1dab9da1",
@@ -103,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "z/Pasted image 20230913220855.png",
+                "file": "MatIntroMat/Lectures/2023.09.21.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "z/Pasted image 20230913220855.png",
+                "file": "MatIntroMat/Lectures/2023.09.21.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "z/Pasted image 20230913220855.png"
+                "file": "MatIntroMat/Lectures/2023.09.21.md"
               }
             }
           },
@@ -196,45 +199,45 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6821d3b96e98e97e",
+  "active": "883edc3c71b6a6db",
   "lastOpenFiles": [
-    "MatIntroMat/Lectures/2023.09.14.md",
-    "MatIntroMat/Lectures/2023.09.12.md",
-    "MatIntroMat/Lectures/Untitled.md",
-    "MatIntroMat/okkurt.md",
-    "Mathematics/Introduction/4. Functions.md",
-    "z/Pasted image 20230913221054.png",
-    "Mathematics/Introduction/2. Equations.md",
-    "Mathematics/Introduction/1. Sets and intervals.md",
-    "z/Pasted image 20230913220855.png",
-    "Mathematics/Complex numbers.md",
-    "MatIntroMat/Assignments/1.md",
-    "MatIntroMat/Assignments",
-    "z/Pasted image 20230913102203.png",
-    "z/Pasted image 20230913103243.png",
-    "CompSys/Lectures/2023.09.13.md",
-    "z/Pasted image 20230913111757.png",
-    "z/Pasted image 20230913111751.png",
-    "z/Pasted image 20230913104303.png",
-    "z/Pasted image 20230913104141.png",
-    "MatIntroMat/Polynomials.md",
-    "MatIntroMat/Lectures/2023.09.07.md",
-    "Mathematics/Introduction/6. Differential calculus.md",
+    "Skema.md",
+    "MatIntroMat/Lectures/2023.09.21.md",
+    "Courses plan.md",
     "Mathematics/Introduction/7. Integral calculus.md",
-    "MatIntroMat/Course introduction.md",
+    "MatIntroMat/Lectures/2023.09.19.md",
+    "z/Pasted image 20230921081847.png",
+    "Mathematics/Introduction/6. Differential calculus.md",
+    "z/Pasted image 20230921081748.png",
+    "CompSys/Lectures/2023.09.20.md",
+    "MatIntroMat/Lectures/2023.09.14.md",
+    "MatIntroMat/Polynomials.md",
     "MatIntroMat/Functions.md",
+    "MatIntroMat/Course introduction.md",
+    "CompSys/Lectures/2023.09.18.md",
+    "z/Pasted image 20230920104746.png",
+    "z/Pasted image 20230920104654.png",
+    "z/Pasted image 20230920104411.png",
     "CompSys/C Language.md",
-    "CompSys/Lectures/2023.09.06.md",
-    "CompSys/Lectures/2023.09.11.md",
+    "MatIntroMat/Lectures/2023.09.12.md",
+    "Mathematics/Complex numbers.md",
+    "CompSys/Lectures/2023.09.13.md",
+    "MatIntroMat/Lectures/2023.09.07.md",
+    "MatIntroMat/Lectures/2023.09.05.md",
+    "z/Pasted image 20230918125540.png",
+    "Mathematics/Number theory.md",
+    "z/Pasted image 20230918125355.png",
+    "z/Pasted image 20230918125252.png",
+    "z/Pasted image 20230918125248.png",
+    "z/Pasted image 20230918125242.png",
     "Manuals/GitHub.md",
     "UNIX.md",
-    "Skema.md",
-    "z/bijective.png",
-    "MatIntroMat/Lectures/2023.09.05.md",
-    "CompSys/Lectures/2023.09.04.md",
-    "Courses plan.md",
-    "CompSys/RISC-V.md",
-    "z/Pasted image 20230911143106.png",
+    "MatIntroMat/okkurt.md",
+    "Mathematics/Introduction/4. Functions.md",
+    "Mathematics/Introduction/2. Equations.md",
+    "Mathematics/Introduction/1. Sets and intervals.md",
+    "MatIntroMat/Assignments/1.md",
+    "MatIntroMat/Assignments",
     "https;",
     "MatIntroMat/Lectures",
     "CompSys/Assignments",

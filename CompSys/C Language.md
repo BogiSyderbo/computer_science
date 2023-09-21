@@ -101,6 +101,7 @@ This program declares three integer variables: *x*, *y*, and *sum*. When the pro
 ![[Pasted image 20230905155035.png]]
 ## Logical operators
 ![[Pasted image 20230906094546.png]]
+````C
 int isAscii(FILE *file){
 	bool is_ascii = true;
 	unsigned char c;

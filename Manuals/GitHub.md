@@ -1,21 +1,21 @@
 # Creating a repository
 
-```
-$ git init
-```
-
-```
-$ git add .
+```bash
+git init
 ```
 
-```
-$ git commit -m "Initial commit."
-```
-
-```
-$ git remote set-url origin git@github.com:BogiSyderbo/your-repo-name.git
+```bash
+git add .
 ```
 
+```bash
+git commit -m "Initial commit."
 ```
-$ git push -u origin main
+
+```bash
+`git remote set-url origin git@github.com:User/UserRepo.git
+```
+
+```bash
+git push -u origin main
 ``` 
