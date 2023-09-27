@@ -13,7 +13,7 @@ git commit -m "Initial commit."
 ```
 
 ```bash
-`git remote set-url origin git@github.com:User/UserRepo.git
+git remote set-url origin git@github.com:User/UserRepo.git
 ```
 
 ```bash
