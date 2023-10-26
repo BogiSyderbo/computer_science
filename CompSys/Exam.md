@@ -1,3 +1,7 @@
+# Subjects
+- Caching
+- Virtual addressing
+
 # Questions
 ## Caching
 ### 1
@@ -14,3 +18,7 @@ Finally, the *TAG* field contains the remaining 18 bits (32 - 4 - 10). Thus a ma
 ![[Pasted image 20230927110717.png]]
 
 ![[2023.09.25#5.1]]
+
+## Virtual addressing
+![[2023.10.02#Exercises notes]]
+
