@@ -8,18 +8,41 @@
         "type": "tabs",
         "children": [
           {
-            "id": "72d13c1e356ce759",
+            "id": "4fa36aa87042a4f4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CompSys/Lectures/2023.10.26.md",
+                "file": "Skema.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "797111c5e29360dc",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "z/Pasted image 20231101134407.png"
+              }
+            }
+          },
+          {
+            "id": "a3507ed76568d228",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Skema.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -77,8 +100,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "85c9830a1dab9da1",
@@ -94,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CompSys/Lectures/2023.10.26.md",
+                "file": "z/Pasted image 20231101134407.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CompSys/Lectures/2023.10.26.md",
+                "file": "z/Pasted image 20231101134407.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CompSys/Lectures/2023.10.26.md"
+                "file": "z/Pasted image 20231101134407.png"
               }
             }
           },
@@ -187,14 +209,27 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "72d13c1e356ce759",
+  "active": "797111c5e29360dc",
   "lastOpenFiles": [
-    "CompSys/Lectures/2023.10.23.md",
+    "CompSys/Lectures/2023.11.01.md",
+    "Skema.md",
+    "z/Pasted image 20231101134407.png",
+    "z/Pasted image 20231101133554.png",
+    "z/Pasted image 20231101113107.png",
+    "z/Pasted image 20231101113059.png",
+    "z/Pasted image 20231101112646.png",
+    "z/Pasted image 20231101105946.png",
+    "z/Pasted image 20231101105636.png",
+    "z/Pasted image 20231101104131.png",
+    "z/Pasted image 20231101104110.png",
+    "z/Pasted image 20231101102937.png",
+    "CompSys/Lectures/2023.10.30.md",
+    "UNIX.md",
     "CompSys/Lectures/2023.10.26.md",
+    "CompSys/Lectures/2023.10.23.md",
     "CompSys/Networking.md",
     "MatIntroMat/Lectures/2023.09.21.md",
     "MatIntroMat/Lectures/2023.10.05.md",
-    "Skema.md",
     "MatIntroMat/Emergency.md",
     "Courses plan.md",
     "CompSys/Lectures/2023.10.11.md",
@@ -209,23 +244,9 @@
     "MatIntroMat/Lectures/2023.09.19.md",
     "CompSys/Lectures/2023.09.06.md",
     "CompSys/Exam.md",
-    "z/Pasted image 20231004113113.png",
-    "z/Pasted image 20231004112920.png",
-    "z/Pasted image 20231004112855.png",
-    "z/Pasted image 20231004111719.png",
-    "z/Pasted image 20231004110713.png",
-    "z/Pasted image 20231004105045.png",
-    "z/Pasted image 20231004104133.png",
-    "z/Pasted image 20231004104033.png",
-    "z/Pasted image 20231004102306.png",
-    "UNIX.md",
     "MatIntroMat/Lectures/2023.09.28.md",
-    "z/Pasted image 20231002154405.png",
     "Mathematics/Complex numbers.md",
-    "MatIntroMat/MCP/1.md",
-    "MatIntroMat/Lectures/2023.09.07.md",
     "MatIntroMat/MCP",
-    "MatIntroMat/Lectures/2023.09.05.md",
     "MatIntroMat/Assignments",
     "https;",
     "MatIntroMat/Lectures",
