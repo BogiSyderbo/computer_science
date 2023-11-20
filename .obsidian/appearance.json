@@ -3,7 +3,7 @@
   "cssTheme": "Dracula Official",
   "interfaceFontFamily": "IBM Plex Sans",
   "textFontFamily": "IBM Plex Serif,Times New Roman",
-  "monospaceFontFamily": "IBM Plex Mono",
+  "monospaceFontFamily": "JetBrains Mono,IBM Plex Mono",
   "showViewHeader": false,
   "nativeMenus": false
 }

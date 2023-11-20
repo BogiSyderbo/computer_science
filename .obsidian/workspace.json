@@ -4,45 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "e6f68a14f020ca9e",
+        "id": "a2945a92ab4c70cb",
         "type": "tabs",
         "children": [
           {
-            "id": "4fa36aa87042a4f4",
+            "id": "bcbbbaa6f998d244",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Skema.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "797111c5e29360dc",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "z/Pasted image 20231101134407.png"
-              }
-            }
-          },
-          {
-            "id": "a3507ed76568d228",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Skema.md",
+                "file": "SS/Lectures/2023-11-20.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -71,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "valgrind",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -100,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "85c9830a1dab9da1",
@@ -116,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "z/Pasted image 20231101134407.png",
+                "file": "SS/Lectures/2023-11-20.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "z/Pasted image 20231101134407.png",
+                "file": "SS/Lectures/2023-11-20.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "z/Pasted image 20231101134407.png"
+                "file": "SS/Lectures/2023-11-20.md"
               }
             }
           },
@@ -209,53 +187,54 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "797111c5e29360dc",
+  "active": "bcbbbaa6f998d244",
   "lastOpenFiles": [
-    "CompSys/Lectures/2023.11.01.md",
+    "z/Pasted image 20231120105110.png",
+    "z/Pasted image 20231120105107.png",
+    "z/Pasted image 20231120104017.png",
+    "SS/Lectures/2023-11-20.md",
+    "Pasted image 20231120105110.png",
+    "Pasted image 20231120105107.png",
+    "Pasted image 20231120104017.png",
+    "Courses plan.md",
+    "SS/Lectures",
+    "SS/Untitled.md",
+    "SS",
+    "z/Pasted image 20231104191921.png",
     "Skema.md",
-    "z/Pasted image 20231101134407.png",
-    "z/Pasted image 20231101133554.png",
-    "z/Pasted image 20231101113107.png",
-    "z/Pasted image 20231101113059.png",
-    "z/Pasted image 20231101112646.png",
-    "z/Pasted image 20231101105946.png",
-    "z/Pasted image 20231101105636.png",
-    "z/Pasted image 20231101104131.png",
-    "z/Pasted image 20231101104110.png",
-    "z/Pasted image 20231101102937.png",
-    "CompSys/Lectures/2023.10.30.md",
+    "MatIntroMat/MCP/2.md",
+    "MatIntroMat/MCP/MCP2.pdf",
+    "Mathematics/Introduction/6. Differential calculus.md",
+    "z/Pasted image 20231109112230.png",
+    "MatIntroMat/MCP/MCP2.tex",
+    "z/Pasted image 20231109051418.png",
+    "z/Pasted image 20231109003925.png",
+    "z/Pasted image 20231109003917.png",
     "UNIX.md",
+    "MatIntroMat/Emergency.md",
+    "MatIntroMat/MCP/1.md",
+    "MatIntroMat/Course introduction.md",
+    "MatIntroMat/Multivariate functoins.md",
+    "CompSys/Lectures/2023.11.01.md",
+    "Manuals/GitHub.md",
+    "CompSys/Lectures/2023.10.30.md",
     "CompSys/Lectures/2023.10.26.md",
     "CompSys/Lectures/2023.10.23.md",
     "CompSys/Networking.md",
     "MatIntroMat/Lectures/2023.09.21.md",
     "MatIntroMat/Lectures/2023.10.05.md",
-    "MatIntroMat/Emergency.md",
-    "Courses plan.md",
     "CompSys/Lectures/2023.10.11.md",
     "Manuals/Alacritty.md",
     "Manuals/Tmux.md",
     "CompSys/Lectures/2023.10.04.md",
     "CompSys/Lectures/2023.09.04.md",
     "CompSys/Lectures/2023.09.25.md",
-    "CompSys/Lectures/2023.09.27.md",
-    "CompSys/Lectures/2023.10.02.md",
-    "CompSys/Course Introduction.md",
-    "MatIntroMat/Lectures/2023.09.19.md",
-    "CompSys/Lectures/2023.09.06.md",
-    "CompSys/Exam.md",
-    "MatIntroMat/Lectures/2023.09.28.md",
-    "Mathematics/Complex numbers.md",
     "MatIntroMat/MCP",
     "MatIntroMat/Assignments",
     "https;",
     "MatIntroMat/Lectures",
     "CompSys/Assignments",
     "CompSys/Lecture Plan",
-    "Untitled.canvas",
-    "Mathematics/Linear Algebra",
-    "z",
-    "MatIntroNat/Untitled",
-    "Mathematics/Discrete Math"
+    "Untitled.canvas"
   ]
 }

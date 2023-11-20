@@ -1,0 +1,128 @@
+Thursday 09/11/23 15:30 \# Differentiation {[}{[}Pasted image
+20231109003925.png{]}{]} {[}{[}Pasted image 20231109003849.png{]}{]}
+\#\# Retningsafledede Antag at funktionen
+\(f: A \rightarrow \mathbb{R}\) er defineret på en delmængde \(A\) af
+\(\mathbb{R}^n\) og at \(a\) er et indre punkt i \(A\). Tænk på
+\(\mathbf{r} \in \mathbb{R}^n\) som en vektor. Den retningsafledede af
+\(f\) i punktet \(a\) og retningen \(\mathbf{r}\) er givet ved \[
+f^{\prime}(\mathbf{a} ; \mathbf{r})=\lim _{h \rightarrow 0} \frac{f(\mathbf{a}+h \mathbf{r})-f(\mathbf{a})}{h}
+\]
+
+\hypertarget{partiel-afledte}{%
+\subsection{Partiel afledte}\label{partiel-afledte}}
+
+For at finde \(\frac{\partial f}{\partial x}\) differentierer vi
+udtrykket med hensyn til \(x\), mens vi lader som om \(y\) er en
+konstant.
+
+For at finde \(\frac{\partial f}{\partial y}\) differentierer vi med
+hensyn til \(y\), mens vi holder \(x\) konstant.
+
+\hypertarget{kuxe6dereglen}{%
+\subsection{Kædereglen}\label{kuxe6dereglen}}
+
+Antag at \(f(u, v)\) er en \(C^1\)-funktion i to variable og at \(g(x)\)
+og \(h(x)\) er differentiable funktioner af én variabel. Ved at sætte
+\(u=g(x)\) og \(g=h(x)\), danner vi en sammensat funktion \[
+k(x)=f(g(x), h(x))
+\] Forestil dig, at du allerede har regnet lidt med funktionerne
+\(f, g\) og \(h\), hver for sig. Sandsynligvis har du så fundet udtryk
+for de partielt afledede af \(f\), \(\frac{\partial f}{\partial u}\) og
+\(\frac{\partial f}{\partial v}\), samt \(\frac{d g}{d x}\) og
+\(\frac{d h}{d x}\). Hvis du derefter ønsker at studere den sammensatte
+funktion \(k\) og differentiere denne, kan kædereglen være til god
+hjælp. Den giver nemlig formlen \[
+\frac{d k}{d x}=\frac{\partial f}{\partial u} \cdot \frac{d g}{d x}+\frac{\partial f}{\partial v} \cdot \frac{d h}{d x}
+\]
+
+Så hvis
+\(\frac{\partial f}{\partial u}, \frac{\partial f}{\partial v}, \frac{d g}{d x}\)
+og \(\frac{d h}{d x}\) allerede er kendte udtryk, kan man sætte disse
+ind i formlen ovenfor. Da finder man et udtryk for den afledede af
+\(k\). I denne formel vil de partielt afledede af
+\(f, \frac{\partial f}{\partial u}\) og
+\(\frac{\partial f}{\partial v}\), selvfølgelig være funktioner af \(u\)
+og \(v\). For at få en funktion af \(x\), må vi substituere \(u=g(x)\)
+og \(v=h(x)\).
+
+\hypertarget{eksempel-kuxe6dereglen}{%
+\subsubsection{Eksempel (kædereglen)}\label{eksempel-kuxe6dereglen}}
+
+Let \(f\) be a \(C^1\)-function in \(\mathbb{R}^2\). Its gradient is: \[
+\nabla f(4,0)=(1,4),
+\] Let: \(h(x, y)=f\left(2 x^2-2 y,-x+y^2\right)\).
+
+What is \(\frac{\partial h}{\partial y}(1,-1) ?\)
+
+\textbf{Solution:}
+\((u,v)=(2\cdot1^2-2(-1),-1+(-1)^2)=(2+2,-1+1)=(4,0)\)
+\(\frac{\partial u}{\partial y}=\frac{\partial}{\partial y}(2u^2-2v)=-2\)
+\(\frac{\partial v}{\partial y}=\frac{\partial}{\partial y}(-u+v^2)=2v=-2\quad (\text{since } v=-1\))
+
+Using the chain rule, this gives us: \[
+\frac{\partial h}{\partial y}=\frac{\partial f}{\partial u}\frac{\partial u}{\partial y}+\frac{\partial f}{\partial v}\frac{\partial v}{\partial y}
+\] \[
+\frac{\partial h}{\partial y}= -2\cdot1+4\cdot(-2)=-2-8=-10
+\] \#\# Tangentplan \[
+h(\mathbf{x})=f(\mathbf{a})+\nabla f(\mathbf{a}) \cdot(\mathbf{x}-\mathbf{a})
+\] \#\# Højere ordens differentiabel \[
+\begin{aligned}
+\frac{\partial^2 f}{\partial x^2} & =\frac{\partial}{\partial x} \frac{\partial f}{\partial x} \\
+\frac{\partial^2 f}{\partial y \partial x} & =\frac{\partial}{\partial y} \frac{\partial f}{\partial x} \\
+\frac{\partial^2 f}{\partial x \partial y} & =\frac{\partial}{\partial x} \frac{\partial f}{\partial y} \\
+\frac{\partial^2 f}{\partial y^2} & =\frac{\partial}{\partial y} \frac{\partial f}{\partial y}
+\end{aligned}
+\]
+
+\hypertarget{taylor-polynomier}{%
+\section{Taylor polynomier}\label{taylor-polynomier}}
+
+\hypertarget{topologi}{%
+\section{Topologi}\label{topologi}}
+
+\hypertarget{randpunkt}{%
+\subsection{Randpunkt}\label{randpunkt}}
+
+\emph{Randen} af en mængde \(A\) er de punkter i \(\mathbb{R}^n\) som
+skiller \(A\) fra det, der ligger udenfor. \emph{Randen} af \(A\) er en
+mængde som vi skriver op som \(\delta A\)
+
+Et punkt \(a\) kaldes et \emph{randpunkt} for A, såfremt det ligger på
+randen af \(A\).
+
+Bemærk, at a ikke nødvendigvis tilhører \(A\).
+
+\hypertarget{det-indre}{%
+\subsection{Det indre}\label{det-indre}}
+
+\emph{Det indre} af \(A\) er de punkter i \(A\), som ikke liger på
+randen.
+
+Et punkt kaldes et \emph{indre punkt} for \(A\) såfremt det ligger i
+\emph{det indre} af \(A\).
+
+\hypertarget{afslutningen}{%
+\subsection{Afslutningen}\label{afslutningen}}
+
+\emph{Afslutningen} af \(A\) er foreningen af randen for \(A\) og det
+indre af \(A\).
+
+Vi indfører notationen \(\bar{A}\) for afslutningen af \(A\), og vi can
+skrive: \[
+\bar{A}=A\cup\delta A
+\] \#\# Åbnede mængder En \emph{åben mængde} er en mængde, som ikke
+indeholder nogen af sine randpunkter.
+
+Sagt på en anden måde er \(A\) åben hvis og kun hvis det indre af A er
+hele mængden.
+
+\hypertarget{lukkede-muxe6ngder}{%
+\subsection{Lukkede mængder}\label{lukkede-muxe6ngder}}
+
+En \emph{lukket mængde} er en mængde som indeholder alle sine
+randpunkter.
+
+Det vil sige, at \(A\) er lukket hvis og kun hvis \(A=\bar{A}\).
+
+\hypertarget{begruxe6nset-muxe6ngde}{%
+\subsection{Begrænset mængde}\label{begruxe6nset-muxe6ngde}}
