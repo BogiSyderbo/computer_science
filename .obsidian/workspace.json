@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "a2945a92ab4c70cb",
+        "id": "e2826d73fc2f0320",
         "type": "tabs",
         "children": [
           {
-            "id": "bcbbbaa6f998d244",
+            "id": "f7d423fe128445df",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SS/Lectures/2023-11-20.md",
+                "file": "AD/Lectures/Week 1/2024.02.05.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e8f387df3ea73e2a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AD/Lectures/Week 1/2024.02.07.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "reflective",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,8 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "85c9830a1dab9da1",
@@ -94,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SS/Lectures/2023-11-20.md",
+                "file": "AD/Lectures/Week 1/2024.02.07.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SS/Lectures/2023-11-20.md",
+                "file": "AD/Lectures/Week 1/2024.02.07.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SS/Lectures/2023-11-20.md"
+                "file": "AD/Lectures/Week 1/2024.02.07.md"
               }
             }
           },
@@ -160,7 +172,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           }
@@ -187,54 +201,54 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "bcbbbaa6f998d244",
+  "active": "e8f387df3ea73e2a",
   "lastOpenFiles": [
-    "z/Pasted image 20231120105110.png",
-    "z/Pasted image 20231120105107.png",
-    "z/Pasted image 20231120104017.png",
-    "SS/Lectures/2023-11-20.md",
-    "Pasted image 20231120105110.png",
-    "Pasted image 20231120105107.png",
-    "Pasted image 20231120104017.png",
-    "Courses plan.md",
-    "SS/Lectures",
-    "SS/Untitled.md",
-    "SS",
-    "z/Pasted image 20231104191921.png",
-    "Skema.md",
-    "MatIntroMat/MCP/2.md",
-    "MatIntroMat/MCP/MCP2.pdf",
-    "Mathematics/Introduction/6. Differential calculus.md",
-    "z/Pasted image 20231109112230.png",
-    "MatIntroMat/MCP/MCP2.tex",
-    "z/Pasted image 20231109051418.png",
-    "z/Pasted image 20231109003925.png",
-    "z/Pasted image 20231109003917.png",
-    "UNIX.md",
-    "MatIntroMat/Emergency.md",
-    "MatIntroMat/MCP/1.md",
-    "MatIntroMat/Course introduction.md",
-    "MatIntroMat/Multivariate functoins.md",
-    "CompSys/Lectures/2023.11.01.md",
-    "Manuals/GitHub.md",
-    "CompSys/Lectures/2023.10.30.md",
-    "CompSys/Lectures/2023.10.26.md",
-    "CompSys/Lectures/2023.10.23.md",
+    "AD/Lectures/Week 1/2024.02.05.md",
+    "AD/Lectures/Week 1/2024.02.07.md",
+    "SS/SSB3/Lectures/Week 1/2024.02..md",
+    "SS/SSB3/Overview.md",
+    "SS/SSB3/Lectures/Week 1",
+    "SS/SSB3/Lectures/Untitled.md",
+    "AD/Overview.md",
+    "Pasted image 20240131142114.png",
+    "Pasted image 20240131142107.png",
+    "Untitled.md",
+    "SS/SSB2/Exercises/2023.12.12.md",
+    "Pasted image 20240129154647.png",
+    "Pasted image 20240129154643.png",
+    "SS/SSB2/Overview.md",
+    "AD/Lectures/Week 1",
+    "AD/Lectures",
+    "AD",
+    "CompSys/RISC-V.md",
     "CompSys/Networking.md",
+    "CompSys/olli/OS.md",
+    "CompSys/olli/ARC.md",
+    "CompSys/olli/Heap uddybende ulæsligt fordi det ikke er blevet rettet og fri tanke strøm fra mit krøllet hovedet.md",
+    "CompSys/C Language.md",
+    "Mathematics/Symbols.md",
+    "Mathematics/Number theory.md",
+    "Mathematics/Complex numbers.md",
+    "Mathematics/Linear Algebra/Matrices.md",
+    "MatIntroMat/Lectures/2023.09.05.md",
+    "MatIntroMat/Lectures/2023.09.07.md",
+    "MatIntroMat/Lectures/2023.09.12.md",
+    "MatIntroMat/Lectures/2023.09.14.md",
+    "MatIntroMat/Lectures/2023.09.19.md",
     "MatIntroMat/Lectures/2023.09.21.md",
-    "MatIntroMat/Lectures/2023.10.05.md",
-    "CompSys/Lectures/2023.10.11.md",
-    "Manuals/Alacritty.md",
-    "Manuals/Tmux.md",
-    "CompSys/Lectures/2023.10.04.md",
-    "CompSys/Lectures/2023.09.04.md",
-    "CompSys/Lectures/2023.09.25.md",
-    "MatIntroMat/MCP",
-    "MatIntroMat/Assignments",
-    "https;",
-    "MatIntroMat/Lectures",
-    "CompSys/Assignments",
-    "CompSys/Lecture Plan",
-    "Untitled.canvas"
+    "MatIntroMat/Lectures/2023.09.28.md",
+    "Untitled.canvas",
+    "SSB3/Untitled",
+    "SS/SSB3/Untitled",
+    "SS/SSB3/Lectures",
+    "SS/SSB3",
+    "SS/SSB2",
+    "z/416361371_7215294488509136_1498697205366660270_n.png",
+    "z/32bit-Endianess.svg.png",
+    "z/Pasted image 20240118160930.png",
+    "z/Pasted image 20240119113130.png",
+    "z/Pasted image 20240119113036.png",
+    "z/Pasted image 20240118161648.png",
+    "CompSys/Exercises (2022)"
   ]
 }

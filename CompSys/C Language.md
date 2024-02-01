@@ -47,7 +47,7 @@ int f() {
 	- Functions
 	- Constants
 - *Operators*
-	- = for initialization and assignment
+	- = for initialisation and assignment
 	- < for comparison
 	- ++ to increment a variable
 	- * to multiply two values
@@ -55,6 +55,29 @@ int f() {
 
 ### Statements
 Statements are instructions that tell the compiler what to do with identifiers that have been declared so far.:
+## Pointers
+A pointer is a variable that stores the *memory address* of another variable.
+
+This declares a pointer using the * symbol.
+```C
+int *ptr // ptr is a pointer to an integer value
+```
+
+To assign a memory address to a pointer, we can use the & symbol:
+```C
+int num = 10;
+ptr = &num; // Assigns the memory address of 'num' to 'ptr'
+```
+
+Now we have the memory address ($\texttt{\&num}$) stored in a pointer ($\texttt{ptr}$). 
+
+This sets the *integer pointer* named $\texttt{ptr}$ to the address of $\texttt{x}$. Then it sets the integer $\texttt{y}$ to the thing pointed to by $\texttt{*ptr}$.
+```C
+int x = 4;
+int *ptr = &x;
+int y = *ptr;
+```
+$\texttt{y}$ is set to the same value as 4 by *dereferencing* the address pointed to by $\texttt{ptr}$, which is the address of $\texttt{x}$.
 ## Function examples
 ### Hello world!
 ```

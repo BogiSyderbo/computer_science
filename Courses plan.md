@@ -21,5 +21,5 @@
 | 1    | CompSys  | CompSys | DatSciIntro | DIS       |
 | 2    | MatIntro | SS      | AD          | RAD       |
 | Blok | 1        | 2       | 3           | 4         |
-| 1    | MLA      |   VR   | Bachelor    | Bachelor  |
-| 2    |    ITS |   Python programmering til datavidenskab  |     |  VtDat  |
+| 1    | MLA      | VR      | Bachelor    | Bachelor  |
+| 2    | ITP      | HPPS    |             | VtDat     |
