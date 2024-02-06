@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c3907d7efcb21474",
+        "id": "876bdccde1f8ded1",
         "type": "tabs",
         "children": [
           {
-            "id": "6fb58a5be057b500",
+            "id": "f3c43c3c48e5c078",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,18 +20,19 @@
             }
           },
           {
-            "id": "c6cc25c59dbb9218",
+            "id": "2802dabfec3a0e4c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SS/SSB2/Lectures/2023.11.20.md",
+                "file": "SS/SSB3/Lectures/Week 1/2024.02.05.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -60,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "naive def",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -201,13 +202,21 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6fb58a5be057b500",
+  "active": "2802dabfec3a0e4c",
   "lastOpenFiles": [
+    "SS/SSB2/Lectures/2023.12.04.md",
+    "SS/SSB2/Lectures/2023.11.24.md",
+    "SS/SSB2/Exercises/2023.11.24.md",
+    "z/Pasted image 20240205114201.png",
     "SS/SSB2/Lectures/2023.11.20.md",
+    "SS/SSB2/Lectures/2023.11.27.md",
+    "SS/SSB2/Exercises/2023.12.12.md",
+    "SS/SSB2/Exercises/2023.11.21.md",
     "SS/SSB3/Lectures/Week 1/2024.02.05.md",
     "AD/Lectures/Week 1/2024.02.05.md",
-    "Skema.md",
     "AD/Lectures/Week 1/2024.02.07.md",
+    "z/Pasted image 20240205163452.png",
+    "Skema.md",
     "Courses plan.md",
     "z/Pasted image 20240129154643.png",
     "MatIntroMat/Polynomials.md",
@@ -223,13 +232,6 @@
     "MatIntroMat/Lectures/2023.09.28.md",
     "MatIntroMat/Lectures/2023.09.21.md",
     "MatIntroMat/Lectures/2023.09.19.md",
-    "MatIntroMat/Lectures/2023.09.14.md",
-    "MatIntroMat/Lectures/2023.09.12.md",
-    "MatIntroMat/Lectures/2023.09.07.md",
-    "MatIntroMat/Lectures/2023.09.05.md",
-    "SS/SSB2/Exercises/2023.12.12.md",
-    "SS/SSB2/Lectures/2023.12.04.md",
-    "SS/SSB2/Lectures/2023.11.27.md",
     "SS/SSB3/Lectures/Week 1",
     "z/Pasted image 20240131142114.png",
     "z/Pasted image 20240131142107.png",
@@ -247,8 +249,6 @@
     "z/32bit-Endianess.svg.png",
     "z/Pasted image 20240118160930.png",
     "z/Pasted image 20240119113130.png",
-    "z/Pasted image 20240119113036.png",
-    "z/Pasted image 20240118161648.png",
     "CompSys/Exercises (2022)"
   ]
 }
