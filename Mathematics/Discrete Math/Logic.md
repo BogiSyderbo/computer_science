@@ -31,6 +31,50 @@ T & T & F & F & T & T & F \\ \hline
 \end{array}
 $$
 # Implication
+$$
+\begin{array}{|c|c||c|}
+\hline \mathrm{p} & \mathrm{q} & \mathrm{p} \Rightarrow \mathrm{q} \\
+\hline \mathrm{F} & \mathrm{F} & \mathrm{T} \\
+\mathrm{F} & \mathrm{T} & \mathrm{T} \\
+\mathrm{T} & \mathrm{F} & \mathrm{F} \\
+\mathrm{T} & \mathrm{T} & \mathrm{T} \\
+\hline
+\end{array}
+$$
+If $p$ implies $q$ ($p\Rightarrow q$) then $p$ is called the *hypothesis* and $q$ is called the *conclusion*.
+
+# Contrapositive and converse
+Consider implication $p \Rightarrow q$. 
+
+Its *converse* is $q \Rightarrow p$ and its *contrapositive* is $(\neg p) \Rightarrow(\neg q)$.
+
+- Lets find the truth table for the *contrapositive* of $p \Rightarrow q$
+- The *contrapositive* statement is $(\neg q) \Rightarrow(\neg p)$
+
+$$
+\begin{array}{|c|c|c|c|c|c|}
+\hline \mathrm{p} & \mathrm{q} & \neg \mathrm{q} & \neg \mathrm{p} & (\neg \mathrm{q}) \Rightarrow(\neg \mathrm{p}) & \mathrm{p} \Rightarrow \mathrm{q} \\
+\hline \mathrm{F} & \mathrm{F} & \mathrm{T} & \mathrm{T} & \mathrm{T} & \mathrm{T} \\
+\mathrm{F} & \mathrm{T} & \mathrm{F} & \mathrm{T} & \mathrm{T} & \mathrm{T} \\
+\mathrm{T} & \mathrm{F} & \mathrm{T} & \mathrm{F} & \mathrm{F} & \mathrm{F} \\
+\mathrm{T} & \mathrm{T} & \mathrm{F} & \mathrm{F} & \mathrm{T} & \mathrm{T} \\
+\hline
+\end{array}
+$$
+
+# Logical equivalence
+$$
+\begin{array}{|c|c||c|}
+\hline \mathrm{p} & \mathrm{q} & \mathrm{p} \Leftrightarrow \mathrm{q} \\
+\hline \mathrm{F} & \mathrm{F} & \mathrm{T} \\
+\mathrm{F} & \mathrm{T} & \mathrm{F} \\
+\mathrm{T} & \mathrm{F} & \mathrm{F} \\
+\mathrm{T} & \mathrm{T} & \mathrm{T} \\
+\hline
+\end{array}
+$$
+
+If $p \Leftrightarrow q$ is a true statement, then we say that $p$ and $q$ are (logically) equivalent and write $p \equiv q$.
 
 # Proposition operations
 The operations for propositions have the following properties.
