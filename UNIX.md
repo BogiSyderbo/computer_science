@@ -41,6 +41,7 @@
 	- NerdTree
 	- LuaLine
 	- GitLab Code suggestions
+	- LSPs for languages
 	- Latex integration
 		- Vimtex
 		- Vim-snip

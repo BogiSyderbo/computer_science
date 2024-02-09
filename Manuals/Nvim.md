@@ -1,4 +1,4 @@
-## Keyboard shortcuts
+	## Keyboard shortcuts
 ### Cursor motion
 - ``H``: Upper left corner (home)
 - ``L``: Lower left corner
