@@ -4,11 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "c60b5b6d2f40db41",
+        "id": "1dd13141dd12ab39",
         "type": "tabs",
         "children": [
           {
-            "id": "e16d58c8d661e6ab",
+            "id": "c91d2161146c0aec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "To-do.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "79baec5aa5786841",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SS/SSB3/Lectures/Week 2/2024.02.12.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9e2c56b762dd7361",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,19 +44,17 @@
             }
           },
           {
-            "id": "f145f229cea1c2e6",
+            "id": "3c9491f2a2c8b438",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "SS/SSB3/Lectures/Week 1/2024.02.09.md",
-                "mode": "source",
-                "source": false
+                "file": "z/Pasted image 20240212161810.png"
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -90,8 +112,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "85c9830a1dab9da1",
@@ -107,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SS/SSB3/Lectures/Week 1/2024.02.09.md",
+                "file": "z/Pasted image 20240212161810.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SS/SSB3/Lectures/Week 1/2024.02.09.md",
+                "file": "z/Pasted image 20240212161810.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SS/SSB3/Lectures/Week 1/2024.02.09.md"
+                "file": "z/Pasted image 20240212161810.png"
               }
             }
           },
@@ -203,53 +224,53 @@
       "obligator:Open today's obligator note": false
     }
   },
-  "active": "f145f229cea1c2e6",
+  "active": "6821d3b96e98e97e",
   "lastOpenFiles": [
-    "SS/SSB2/Lectures/2023.11.27.md",
-    "SS/SSB2/Lectures/2023.12.04.md",
+    "AD/Lectures/Week 2/2024.02.12.md",
+    "z/Pasted image 20240212161810.png",
+    "z/Pasted image 20240212161803.png",
+    "z/Pasted image 20240212153303.png",
+    "SS/SSB3/Lectures/Week 2/2024.02.12.md",
+    "To-do.md",
     "AD/Lectures/Week 1/2024.02.07.md",
-    "z/Pasted image 20240208222204.png",
-    "SS/SSB3/Lectures/Week 1/2024.02.05.md",
+    "Excalidraw/Drawing 2024-02-12 12.23.55.excalidraw.md",
+    "Excalidraw/Drawing 2024-02-12 13.47.10.excalidraw.md",
+    "z/Pasted Image 20240212134725_996.png",
+    "AD/Lectures/Week 1/2024.02.05.md",
+    "z/Pasted Image 20240212122410_836.png",
+    "Excalidraw",
     "SS/SSB3/Lectures/Week 1/2024.02.09.md",
+    "SS/SSB3/Lectures/Week 2",
+    "SS/SSB3/Lectures/Week 1/Untitled",
+    "SS/SSB3/Overview.md",
+    "SS/SSB3/Lectures/Week 1/2024.02.05.md",
+    "Untitled.md",
+    "AD/Lectures/Week 2",
+    "Mathematics/Discrete Math/Combinatorics.md",
+    "SS/SSB2/Lectures/2023.12.04.md",
+    "SS/SSB2/Lectures/2023.11.27.md",
+    "Courses plan.md",
+    "Skema.md",
+    "SS/SSB2/Exercises/2023.11.24.md",
+    "SS/SSB2/Exercises/2023.11.21.md",
+    "z/Pasted image 20240208222204.png",
     "SS/SSB2/Lectures/2023.11.24.md",
     "SS/SSB2/Lectures/2023.11.20.md",
     "SS/SSB2/Exercises/2023.12.12.md",
-    "SS/SSB2/Exercises/2023.11.24.md",
-    "SS/SSB2/Exercises/2023.11.21.md",
-    "AD/Lectures/Week 1/2024.02.05.md",
-    "To-do.md",
     "z/Pasted image 20240208233301.png",
     "z/Pasted image 20240208230428.png",
     "z/Pasted image 20240208225633.png",
     "GDS/Conda.md",
     "Manuals/Nvim.md",
     "UNIX.md",
-    "Skema.md",
     "GDS/Lectures/24.02.08.md",
-    "Courses plan.md",
     "z/Pasted image 20240207163438.png",
-    "z/Pasted image 20240207161754.png",
-    "z/Pasted image 20240207155818.png",
-    "z/Pasted image 20240207155802.png",
-    "z/Pasted image 20240207155135.png",
-    "z/Pasted image 20240207155121.png",
-    "MatIntroMat/Polynomials.md",
-    "MatIntroMat/Functions.md",
-    "MatIntroMat/MCP/2.md",
-    "MatIntroMat/MCP/1.md",
-    "Mathematics/Discrete Math/Combinatorics.md",
-    "Mathematics/Number theory.md",
-    "Mathematics/Symbols.md",
     "GDS/Lectures",
     "GDS",
     "AD/Untitled",
     "SS/SSB3/Lectures/Week 1",
     "AD/Lectures/Week 1",
     "AD/Lectures",
-    "AD",
-    "Untitled.canvas",
-    "SSB3/Untitled",
-    "SS/SSB3/Untitled",
-    "SS/SSB3/Lectures"
+    "Untitled.canvas"
   ]
 }
