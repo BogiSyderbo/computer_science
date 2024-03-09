@@ -8,7 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c91d2161146c0aec",
+            "id": "33caa9b13b331924",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GDS/Conda.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5174464cab5455ac",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,41 +32,18 @@
             }
           },
           {
-            "id": "79baec5aa5786841",
+            "id": "93f511543decef95",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SS/SSB3/Lectures/Week 2/2024.02.12.md",
+                "file": "SS/SSB3/Overview.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "9e2c56b762dd7361",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AD/Lectures/Week 1/2024.02.07.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3c9491f2a2c8b438",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "z/Pasted image 20240212161810.png"
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -83,7 +72,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Fibonacci",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -112,7 +101,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "85c9830a1dab9da1",
@@ -128,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "z/Pasted image 20240212161810.png",
+                "file": "GDS/Conda.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "z/Pasted image 20240212161810.png",
+                "file": "GDS/Conda.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "z/Pasted image 20240212161810.png"
+                "file": "GDS/Conda.md"
               }
             }
           },
@@ -224,53 +214,54 @@
       "obligator:Open today's obligator note": false
     }
   },
-  "active": "6821d3b96e98e97e",
+  "active": "33caa9b13b331924",
   "lastOpenFiles": [
-    "AD/Lectures/Week 2/2024.02.12.md",
-    "z/Pasted image 20240212161810.png",
-    "z/Pasted image 20240212161803.png",
-    "z/Pasted image 20240212153303.png",
-    "SS/SSB3/Lectures/Week 2/2024.02.12.md",
     "To-do.md",
+    "SS/SSB3/Overview.md",
+    "GDS/Conda.md",
+    "AD/Lectures/Week 4/2024.02.26.md",
+    "AD/Lectures/Week 5/2024.03.04.md",
+    "AD/Lectures/Week 3/2024.02.19.md",
+    "AD/Lectures/Week 3/2024.02.21.md",
+    "AD/Lectures/Week 2/2024.02.14.md",
+    "AD/Lectures/Week 2/2024.02.12.md",
+    "AD/Time complexity.md",
+    "AD/Lectures/Week 5",
+    "AD/Lectures/Week 4",
+    "GDS/Lectures/24.02.13.md",
+    "GDS/Lectures/24.02.08.md",
     "AD/Lectures/Week 1/2024.02.07.md",
+    "AD/Lectures/Week 1/2024.02.05.md",
+    "z/Pasted image 20240219163724.png",
+    "z/Pasted image 20240219163719.png",
+    "z/Pasted image 20240219163709.png",
+    "Excalidraw/Drawing 2024-02-19 16.33.54.excalidraw.md",
+    "z/Pasted Image 20240219163424_396.png",
+    "z/Pasted image 20240219162212.png",
+    "z/Pasted image 20240219161558.png",
+    "z/Pasted image 20240219161545.png",
+    "z/Pasted image 20240219161428.png",
+    "z/Pasted image 20240219152157.png",
+    "z/Pasted image 20240219151412.png",
+    "Skema.md",
+    "AD/Lectures/Week 3",
+    "SS/SSB3/Lectures/Week 1/2024.02.05.md",
+    "AD/Assignments/Assignment 1.md",
+    "SS/SSB3/Lectures/Week 1/2024.02.09.md",
+    "AD/Overview.md",
+    "SS/SSB3/Lectures/Week 2/2024.02.12.md",
+    "AD/Assignments",
+    "AD/Untitled.md",
     "Excalidraw/Drawing 2024-02-12 12.23.55.excalidraw.md",
     "Excalidraw/Drawing 2024-02-12 13.47.10.excalidraw.md",
-    "z/Pasted Image 20240212134725_996.png",
-    "AD/Lectures/Week 1/2024.02.05.md",
-    "z/Pasted Image 20240212122410_836.png",
     "Excalidraw",
-    "SS/SSB3/Lectures/Week 1/2024.02.09.md",
     "SS/SSB3/Lectures/Week 2",
     "SS/SSB3/Lectures/Week 1/Untitled",
-    "SS/SSB3/Overview.md",
-    "SS/SSB3/Lectures/Week 1/2024.02.05.md",
     "Untitled.md",
     "AD/Lectures/Week 2",
     "Mathematics/Discrete Math/Combinatorics.md",
-    "SS/SSB2/Lectures/2023.12.04.md",
-    "SS/SSB2/Lectures/2023.11.27.md",
-    "Courses plan.md",
-    "Skema.md",
-    "SS/SSB2/Exercises/2023.11.24.md",
-    "SS/SSB2/Exercises/2023.11.21.md",
-    "z/Pasted image 20240208222204.png",
-    "SS/SSB2/Lectures/2023.11.24.md",
-    "SS/SSB2/Lectures/2023.11.20.md",
-    "SS/SSB2/Exercises/2023.12.12.md",
-    "z/Pasted image 20240208233301.png",
-    "z/Pasted image 20240208230428.png",
-    "z/Pasted image 20240208225633.png",
-    "GDS/Conda.md",
-    "Manuals/Nvim.md",
-    "UNIX.md",
-    "GDS/Lectures/24.02.08.md",
-    "z/Pasted image 20240207163438.png",
     "GDS/Lectures",
     "GDS",
-    "AD/Untitled",
-    "SS/SSB3/Lectures/Week 1",
-    "AD/Lectures/Week 1",
-    "AD/Lectures",
     "Untitled.canvas"
   ]
 }
