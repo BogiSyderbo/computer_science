@@ -1,4 +1,4 @@
-
+![[Pasted image 20240405134643.png]]
 
 | Week | Subjects | Subjects |     |
 | ---- | -------- | -------- | --- |
@@ -26,3 +26,26 @@
 # Preparations
 - Former exams
 - Tasks
+
+# Overviews
+**Algorithms**:
+- Name
+- Type
+- Runtime
+- Input
+- Output
+- Properties
+- Notes
+- CLRS page
+
+MST: Prim, Kruskal
+SP: BF, Dijkstra, FW
+
+
+
+**Data structures**
+- Name
+- Type
+- Properties 
+- Notes
+- CLRS page

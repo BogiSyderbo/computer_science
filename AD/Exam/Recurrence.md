@@ -9,4 +9,4 @@ The recurrence contains two or more cases depending on the argument. *Recursive 
 
 The recurrence is *well-defined* if there is at least one function that satisfies it, and *ill-defined* otherwise.
 
-![[AD/Lectures/Week 2/2024.02.12#Master method|2024.02.12]]
+![[AD/Lectures/Week 2/2024.02.12#Master method|2024.02.12]]![[Pasted image 20240405134718.png]]
