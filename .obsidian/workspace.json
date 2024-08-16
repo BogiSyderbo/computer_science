@@ -8,31 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8715496a4499f75e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SS/SSB2/Exercises/2023.12.12.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "847a2fa8d9adc4d6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DIS/Relational Algebra.md",
+                "file": "DIS/PostgreSQL.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DIS/Relational Algebra.md",
+                "file": "DIS/PostgreSQL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DIS/Relational Algebra.md",
+                "file": "DIS/PostgreSQL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DIS/Relational Algebra.md"
+                "file": "DIS/PostgreSQL.md"
               }
             }
           },
@@ -204,10 +191,12 @@
   },
   "active": "847a2fa8d9adc4d6",
   "lastOpenFiles": [
+    "DIS/Exam.md",
+    "DIS/Relational Algebra.md",
     "DIS/PostgreSQL.md",
     "DIS/Concepts.md",
-    "DIS/Exercises/ex1.md",
     "SS/SSB2/Exercises/2023.12.12.md",
+    "DIS/Exercises/ex1.md",
     "SS/SSB2/Lectures/2023.12.04.md",
     "SS/SSB2/Lectures/2023.11.27.md",
     "SS/SSB2/Overview.md",
@@ -227,10 +216,8 @@
     "SS/SSB2/Lectures/2023.11.20.md",
     "SS/SSB2/Lectures/2023.11.24.md",
     "SS/Exam/Overview.md",
-    "DIS/Relational Algebra.md",
     "RAD/Week 1/24.04.24.md",
     "RAD/Exam.md",
-    "RAD/Week 2/24.04.29.md",
     "z/Pasted image 20240516132227.png",
     "z/Pasted image 20240425143618.png",
     "RAD/Week 3",

@@ -16,22 +16,38 @@ sudo systemctl restart postgresql
 sudo systemctl status postgresql
 ```
 
-# Guide
+# PSQL guide
+```bash
+sudo -u postgres psql
 ```
 
+
+**Basic commands**:
+
+*connect*
+```
+\c database_name
 ```
 
+*list all databases*
+```
+\l
+```
 
+*list all table in database*
+```
+\dt
+```
 
+*describe table structure*
+```
+\d table_name
+```
 
-
-
-
-
-
-
-
-
+*quit*
+```bash
+\q
+```
 
 ```bash
 1016  sudo -u postgres psql                                                                            │ 14 # set your own database
